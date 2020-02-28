@@ -19,10 +19,8 @@
 }
 .proverb p{
     display: flex;
-
     align-items: center;
     flex-direction: column;
-
     width: 200px;
     font-size: 30px;
 }
